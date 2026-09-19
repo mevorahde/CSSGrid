@@ -12,3 +12,7 @@ material rather than a runnable application or reusable library.
 The repository is retained as a record of early web-development study. It is
 not actively maintained, and the current freeCodeCamp curriculum or exercise
 format may differ from these saved files.
+
+## License
+
+The original exercise solutions and documentation authored by David E. Mevorah are available under the [MIT License](LICENSE). freeCodeCamp prompts, exercise instructions, examples, and other third-party material are not covered by that license and remain subject to their respective owners' terms.
